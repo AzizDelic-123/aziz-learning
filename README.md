@@ -8,3 +8,8 @@ Ciljevi.
 Naučiti git i Github
 Napraviti svoju prvu web stranicu.
 Usavršiti i nekada nekoga naučiti ovome poslu.
+Šta sam danas naučio.
+Koristiti git.
+Napraviti repository.
+Napraviti commit.
+Poslati projeakt GitHub.
