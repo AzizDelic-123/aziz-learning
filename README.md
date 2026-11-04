@@ -19,3 +19,5 @@ Alati koje koristim
 Git i GitHub
 -2026-11-04 naučio šta su terminal,folder i repository.
 -2026.11.04 napravio prvi repo i tri commita.
+Nova lekcija
+Danas sam naučio git pull
