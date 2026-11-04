@@ -13,3 +13,9 @@ Koristiti git.
 Napraviti repository.
 Napraviti commit.
 Poslati projeakt GitHub.
+Alati koje koristim
+-VS code
+-claude Code
+Git i GitHub
+-2026-11-04 naučio šta su terminal,folder i repository.
+-2026.11.04 napravio prvi repo i tri commita.
